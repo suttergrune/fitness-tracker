@@ -1,6 +1,6 @@
 # Fitness Tracker
 
-https://fitness-tracker2.herokuapp.com/
+https://fitness-tracker2.herokuapp.com
 
 This is a fully responsive web application for tracking a user's fitness progress. It uses JavaScript, Bootstrap 4, and a Firebase database (firebase.google.com). A new user can enter his or her fitness information in the "NEW USER" section. Upon pressing submit, a simple "account" is created and the information is stored in the database, along with the current date. If a user wishes to check their fitness progress at a later date, he or she can simply enter the username and weight in the "RETURNING USER" section. Upon pressing submit, their progress is displayed according to the last time they logged their weight, along with their other account information. And of course, their account information is updated in the database.
 
